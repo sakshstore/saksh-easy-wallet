@@ -156,10 +156,13 @@ If you encounter any issues or have questions regarding **Saksh Easy Wallet**, p
 
 ### Contact
 
-- For direct inquiries, you can reach out via email at [support@sakshwallet.com](mailto:support@sakshwallet.com).
+- For direct inquiries, you can reach out via email at susheel2339 @ gmail.com
 
 ### Contributing
 
 - We welcome contributions! If you would like to contribute to **Saksh Easy Wallet**, please check out our [Contributing Guidelines](https://github.com/sakshstore/saksh-easy-wallet/blob/main/CONTRIBUTING.md) for more information.
 
-Thank you for using **Saksh Easy Wallet**! Your support and feedback are greatly appreciated.
+Thank you for using **Saksh Easy Wallet**! Your support and feedback are greatly appreciated. 
+
+
+

@@ -1,0 +1,28 @@
+{
+  "name": "saksh-easy-wallet",
+  "version": "1.0.3",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Susheelhbti",
+  "license": "ISC",
+  "description": "A simple and easy-to-use wallet management system for handling user balances and transactions.",
+  "keywords": [
+  "wallet",
+  "balance",
+  "transactions",
+  "mongoose",
+  "nodejs",
+  "saksh"
+  ],
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/sakshstore/saksh-easy-wallet"
+  },
+  "bugs": {
+  "url": "https://github.com/sakshstore/saksh-easy-wallet/issues"
+  },
+  "homepage": "https://github.com/sakshstore/saksh-easy-wallet#readme"
+  }
+  
